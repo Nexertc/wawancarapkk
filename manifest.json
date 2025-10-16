@@ -1,0 +1,20 @@
+{
+  "name": "Wawancara Pabrik Tahu",
+  "short_name": "Pabrik Tahu",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "ICTGSRM.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ICTGSRM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
